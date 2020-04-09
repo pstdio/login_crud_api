@@ -7,6 +7,6 @@ package eu.pstdio.login_crud_api.presentation.controller;
 public interface LoginController {
     String post(String json);
     String get(String json);
-    String put(String json);
-    String delete(String json);
+    void put(String json);
+    void delete(String json);
 }
