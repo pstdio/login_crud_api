@@ -1,6 +1,6 @@
-package eu.pstdio.login_creator_api.integration.dao;
+package eu.pstdio.login_crud_api.integration.dao;
 
-import eu.pstdio.login_creator_api.integration.entity.LoginEntity;
+import eu.pstdio.login_crud_api.integration.entity.LoginEntity;
 
 /**
  *

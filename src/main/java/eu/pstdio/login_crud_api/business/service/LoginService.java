@@ -1,4 +1,4 @@
-package eu.pstdio.login_creator_api.business.service;
+package eu.pstdio.login_crud_api.business.service;
 
 /**
  *

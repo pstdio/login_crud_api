@@ -1,4 +1,4 @@
-package eu.pstdio.login_creator_api.integration.entity;
+package eu.pstdio.login_crud_api.integration.entity;
 
 /**
  *

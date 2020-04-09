@@ -1,4 +1,4 @@
-package eu.pstdio.login_creator_api.presentation.controller;
+package eu.pstdio.login_crud_api.presentation.controller;
 
 /**
  *
