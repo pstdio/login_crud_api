@@ -5,6 +5,6 @@ package eu.pstdio.login_crud_api.business.message;
  * @author mib
  */
 public interface DeleteInputMessage {
-    void setId(Long id);
-    Long getId();
+    void setId(String id);
+    String getId();
 }
