@@ -12,5 +12,5 @@ public interface LoginEntity {
     void setSalt(String salt);
     String getSalt();
     void setDisabled(boolean disabled);
-    boolean getDisabled();
+    boolean isDisabled();
 }
