@@ -11,4 +11,6 @@ public interface PutInputMessage {
     String getPasswd();
     void setDisabled(String disabled);
     String getDisabled();
+    void setSalt(String salt);
+    String getSalt();
 }

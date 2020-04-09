@@ -10,4 +10,5 @@ public interface LoginDao {
     void create(LoginEntity loginEntity);
     LoginEntity getById(Long id);
     void deleteById(Long id);
+    void update(LoginEntity loginEntity);
 }
